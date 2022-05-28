@@ -1,0 +1,23 @@
+Skills that I will get from the course of Vadim Ksendzov:
+- basic testing theory
+- HTTP requests and responses, codes
+- API testing through Postman
+- Capturing and reading logs from an external server
+- Sniffing http web traffic with Charles and Fiddler
+- Dev Tools web browsers (Google Chrome, FireFox)
+- VPN
+- mobile testing
+- iOS, Android feature, guidlines
+- building iOS apps in XCode. (Those who don't have a Mac computer, just watch)
+- building Android apps on Android Studio
+- ADB (android device management)
+- setting up proxies and vpn on iOS and Android
+- interception (sniffing) of mobile traffic through Charles and Fiddler on iOS and Android
+- Linux command line (terminal) (copy, create, view, move files on servers without GUI)
+- basic bash scripting, automation of routine tasks on the server
+- remote server access
+- SQL basics (Create, Delete, Drop, Insert Into, Select, From, Where, Join)
+- Postgres database (installation, setup and use)
+- non-relational Redis database (installation, setup and use)
+- load testing in Jmeter
+- Scrum development methodology
