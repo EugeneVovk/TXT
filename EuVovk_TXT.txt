@@ -1,6 +1,8 @@
  1. Создать внешний репозиторий c названием TXT.
-	![Image alt](https://github.com/EugeneVovk/TXT/raw/main/C:\Users\user\OneDrive\Рабочий стол\Скриншот 28-05-2022 205931.png)
+	https://skr.sh/sEAOyVSzecV
+	https://skr.sh/sEA6k4cIhvY
  2. Клонировать репозиторий TXT на локальный компьютер.
+	https://skr.sh/sEAAAtFGMLD
 	- git clone https://github.com/EugeneVovk/TXT.git
  3. Внутри локального TXT создать файл “new.txt”.
 	- cd TXT
@@ -69,8 +71,13 @@
  13. Отправить сразу 2 файла на внешний репозиторий.
 	- git push
  14. На веб интерфейсе создать файл bug_report.txt.
+	https://skr.sh/sEAmj5eh5MN
  15. Сделать Commit changes (сохранить) изменения на веб интерфейсе.
+	https://skr.sh/sEAfx2W41jk
  16. На веб интерфейсе модифицировать файл bug_report.txt, добавить баг репорт в формате TXT.
+	https://skr.sh/sEAXkzq5odi
+	https://skr.sh/sEAwvNF46i5
  17. Сделать Commit changes (сохранить) изменения на веб интерфейсе.
+	https://skr.sh/sEAgl0LSXZy
  18. Синхронизировать внешний и локальный репозиторий TXT
 	- git pull
