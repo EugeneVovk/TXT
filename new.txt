@@ -1,0 +1,5 @@
+first name - Eugene
+last name - Vovk
+age - 39
+number of pets - 0
+desired future salary($) - 1500
